@@ -4,3 +4,4 @@
 
 - Sinh viên: Đỗ Việt Tiến – MSSV 202417268
 - Chạy chương trình: `python main.py`
+- Yêu cầu: Python ≥ 3.10
