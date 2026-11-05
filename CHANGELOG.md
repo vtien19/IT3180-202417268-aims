@@ -7,6 +7,10 @@ số phiên bản theo [Semantic Versioning](https://semver.org/lang/vi/).
 
 ## [Unreleased]
 
+## [1.0.1] - 2026-11-05
+### Fixed
+- `search_by_title()` không còn phân biệt chữ hoa, chữ thường (#20)
+
 ## [1.0.0] - 2026-11-05
 ### Added
 - `Cart.print_cart()`: in danh sách đĩa và tổng tiền, báo "The cart is empty" khi giỏ trống
@@ -23,5 +27,6 @@ số phiên bản theo [Semantic Versioning](https://semver.org/lang/vi/).
 ### Fixed
 - Giỏ hàng nhận đĩa thứ 21 dù giới hạn là 20 (#9)
 
-[Unreleased]: https://github.com/vtien19/it3180-202417268-aims/compare/v1.0.0...HEAD
+[Unreleased]: https://github.com/vtien19/it3180-202417268-aims/compare/v1.0.1...HEAD
+[1.0.1]: https://github.com/vtien19/it3180-202417268-aims/compare/v1.0.0...v1.0.1
 [1.0.0]: https://github.com/vtien19/it3180-202417268-aims/compare/v0.1.0...v1.0.0
