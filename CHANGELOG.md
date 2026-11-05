@@ -6,6 +6,8 @@ Mọi thay đổi đáng chú ý của AIMS-mini được ghi lại trong tệp 
 số phiên bản theo [Semantic Versioning](https://semver.org/lang/vi/).
 
 ## [Unreleased]
+
+## [1.1.0] - 2026-11-05
 ### Added
 - `Cart.sort_by_title()` và `Cart.sort_by_cost()`: sắp xếp đĩa trong giỏ hàng
 - `search_by_category()` trong `aims/search.py`: tìm đĩa theo thể loại
@@ -26,5 +28,6 @@ số phiên bản theo [Semantic Versioning](https://semver.org/lang/vi/).
 ### Fixed
 - Giỏ hàng nhận đĩa thứ 21 dù giới hạn là 20 (#9)
 
-[Unreleased]: https://github.com/vtien19/it3180-202417268-aims/compare/v1.0.0...HEAD
+[Unreleased]: https://github.com/vtien19/it3180-202417268-aims/compare/v1.1.0...HEAD
+[1.1.0]: https://github.com/vtien19/it3180-202417268-aims/compare/v1.0.0...v1.1.0
 [1.0.0]: https://github.com/vtien19/it3180-202417268-aims/compare/v0.1.0...v1.0.0
